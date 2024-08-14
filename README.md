@@ -1,7 +1,7 @@
 # GMTK Game Jam 2024
 Best game ever
 
-[GMTK Game Jam 2024](https://itch.io/jam/gmtk-2023)
+[GMTK Game Jam 2024](https://itch.io/jam/gmtk-2024)
 
 ## Theme of the gamejam : 
 
