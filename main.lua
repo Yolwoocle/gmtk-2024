@@ -1,3 +1,6 @@
+require "lib.error_explorer.error_explorer" {
+	source_font = love.graphics.newFont("fonts/FiraCode-Regular.ttf", 12)
+}
 local Game = require "code.game"
 
 function love.load(args)
